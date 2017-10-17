@@ -98,7 +98,7 @@ for (int i = 0; i < letras.length; i++){
 if (palavraAceita == true && (estado == 3  || estado == 4))
 	resultado = " foi aceita pelo automato";
 else
-	resultado ="não foi aceita pelo autômato";
+	resultado =" não foi aceita pelo autômato";
 
 
 %>
